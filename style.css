@@ -1,0 +1,97 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 45px;
+}
+.name{
+    color: deeppink;
+}
+
+.header{
+    background-image: url("img/header-bg.png");
+    background-repeat: no-repeat;
+    height: 1100px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.button{
+    margin-top: 50px;
+    background-color: deeppink;
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.biography{
+    background-image: url("img/biography-bg.png");
+    background-repeat: no-repeat;
+    height:1100px;
+}
+.paragraph{
+    line-height: 30px;
+}
+.title{
+    text-align: center;
+}
+.picture{
+    margin-top: 20px;
+    width: 25%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.picture img{
+    width: 100%;
+}
+.latest{
+    background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height:1100px;
+}
+.s{
+    text-align: center;
+    color: gray;
+}
+.m-title{
+    text-align: center;   
+}
+.p-title{
+    text-align: center;
+    line-height: 25px;
+}
+.d{
+    text-decoration: none;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+}
+.footer a p{
+    width: 350px;
+    background-color: deeppink;
+    
+    border-radius: 5px;
+}
+.f{
+    margin-left: 37%;
+}
+span {
+    color: gray;
+    line-height: 2%;
+    margin-left: 35%;
+
+}
+.coppy{
+    margin: 6% 0% 0% 0%;
+}
